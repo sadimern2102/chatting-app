@@ -1,0 +1,23 @@
+.page{
+    height: 100vh;
+    background: #000;
+    color: #fff;
+}
+.formControl{
+    border: 1px solid #fff;
+    padding: 30px 20px;
+    width: 600px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    border-radius: 10px;
+}
+.head{
+    margin-bottom: 25px;
+    font-size: 30px;
+    font-weight: 700;
+}
+.text{
+    text-align: center;
+}
